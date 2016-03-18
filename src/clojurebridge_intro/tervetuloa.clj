@@ -38,16 +38,14 @@
       (q/text-size 20)
       (q/text linkki 0 265))))
 
-(defn tervetuloa []
-  (q/defsketch tervetuloa
+(q/defsketch tervetuloa
     :title "Tervetuloa ClojureBridge koulutukseen"
     :setup alustus
     :draw piirto
     :update liiku
     :features [:keep-on-top]
     :size [800 600]
-    :middleware [m/fun-mode]))
+    :middleware [m/fun-mode])
 
-(comment
-  (tervetuloa)
-  )
+(defn tervetuloa []
+  (println "Tervetuloa, koneesi on valmis"))
