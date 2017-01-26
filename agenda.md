@@ -1,20 +1,20 @@
-# Avaus
+# Avaus _(Ansku)_
  
 - Tervetuloa
 - Järjestelyt
 - Ohjelma
 - Esittelyt
 
-# InstallFest
+# InstallFest _(Kaikki)_
  
 - Erillinen ohje
 
-# Mitä ohjelmointi on?
+# Mitä ohjelmointi on? _(Jarppe)_
   
 - Miten tietokone toimii
 - Ohjelmointi yleisesti
 
-# Ohjelmoinnin perusteet
+# Ohjelmoinnin perusteet _(Matti)_
 
 - clojurebridge-intro.basics
 - Tutustutaan IDE:een
@@ -22,13 +22,13 @@
 - Funktiot
 - Evaluointi
 
-# Tietorakenteet
+# Tietorakenteet _(Kimmo)_
 
 - Vector
 - Map
 - Huomioi seuraavan osan esimerkki data
 
-# Map, Filter, Reduce
+# Map, Filter, Reduce _(Jarppe)_
 
 - clojurebridge-intro.tiedonkasittely
 - Koodissa erikseen
@@ -38,17 +38,17 @@
 - Lappu-leikki
   - kirjat.key.pdf
 
-# Luento
+# Luento _(?)_
 
 - Avoin, ehdotuksia? Jotain tyyliin:
   - Millaista on työskennellä ohjelmointi alalla
   - Oikean projektin esittely
 
-# Quil esimerkki
+# Quil esimerkki _(Make)_
 
 - Koodataan joku häikäisevä interaktiivinen spektaakkeli
 
-# Vapaata keskustelua
+# Vapaata keskustelua _(Kaikki)_
 
 - keskustellaan kurssista, ohjelmoinnista, tietsikoista...
 - nautitaan virvokkeita
