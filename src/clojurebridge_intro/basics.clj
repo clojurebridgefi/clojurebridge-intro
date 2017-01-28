@@ -1,7 +1,7 @@
 (ns clojurebridge-intro.basics)
 
 ;;
-;; Tutustutaan Clojure syntaksiin:
+;; Tutustutaan Clojuren syntaksiin:
 ;;
 
 ; Kommentit
@@ -12,18 +12,19 @@
 
 ; Merkkijonot
 
-; Keywords, eli avain-sanat
+; Keywords, eli avainsanat
 
 ; Funktioiden kutsuminen
 
+; Vakioiden käyttö
+
+
 ;;
-;; Omien muuttujien käyttö:
+;; Tehdään oma funktio
 ;;
 
-; Oma ja naapurien pituus
-; Pituuksien keskiarvo
+; Lasketaan oman ja kahden naapurin pituuksien keskiarvo
 
-; Tehdään oma funktio
 
 ;;
 ;; Tietorakenteet:
