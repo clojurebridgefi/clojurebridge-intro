@@ -1,5 +1,4 @@
-(ns clojurebridge-intro.tiedonkasittely
-  (:require [quil.core :as q]))
+(ns clojurebridge-intro.tiedonkasittely)
 
 ; Tässä on esitelty muutamia kirjoja
 ;   (lähteet: goodreads.com ja piki.verkkokirjasto.fi)
