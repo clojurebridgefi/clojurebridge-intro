@@ -1,54 +1,60 @@
-# Avaus _(Ansku)_
- 
-- Tervetuloa
-- Järjestelyt
-- Ohjelma
-- Esittelyt
+# Opening _(Ykä)_
 
-# InstallFest _(Kaikki)_
- 
-- Erillinen ohje
+- Welcome
+- Practicalities
+- Agenda
+- Introductions
+- Lunch groups for each coaches
 
-# Mitä ohjelmointi on? _(Jarppe)_
-  
-- Miten tietokone toimii
-- Ohjelmointi yleisesti
+# InstallFest _(everyone)_
 
-# Ohjelmoinnin perusteet _(Matti)_
+- [Instructions](install-nightcode.md)
 
-- clojurebridge-intro.basics
-- Tutustutaan IDE:een
-- Muuttujat
-- Funktiot
-- Evaluointi
+# What is programming? _(Juhis)_
 
-# Tietorakenteet _(Kimmo)_
+- How does a computer work
+- Programming in general
+
+# Basics of Clojure programming _(Ykä)_
+
+- Write and run code in Nightcode's Instarepl
+- [src/clojurebridge-intro/basics.clj](src/clojurebridge-intro/basics.clj)
+- IDE introduction
+- Variables
+- Functions
+- Evaluating
+
+# Data structures _(Ykä)_
 
 - Vector
 - Map
-- Huomioi seuraavan osan esimerkki data
+- Use example data for the following excercise?
 
-# Map, Filter, Reduce _(Jarppe)_
+# Map, Filter, Reduce _(Kimmo)_
 
-- clojurebridge-intro.tiedonkasittely
-- Koodissa erikseen
+- introduce map, filter and reduce by acting a play on the
+  - have one person (course participants?) per book
+  - each person will get a printed paper that has the details on the their book
+  - have one coach act as a map function, one as filter and one as reduce
+  - orchestrate running the map, filter and reduce as a play
+
+- [src/clojurebridge-intro/tiedonkasittely.clj](src/clojurebridge-intro/tiedonkasittely.clj)
+- Implement and run the same functions in code:
   - map
   - filter
   - reduce
-- Lappu-leikki
-  - kirjat.key.pdf
 
-# Luento _(?)_
+# Talk _(Asta)_
 
-- Avoin, ehdotuksia? Jotain tyyliin:
-  - Millaista on työskennellä ohjelmointi alalla
-  - Oikean projektin esittely
+- How did I end up being a programmer?
+- How has it been to work as a programmer?
 
-# Quil esimerkki _(Make)_
+# Quil _(Ykä)_
 
-- Koodataan joku häikäisevä interaktiivinen spektaakkeli
+- ?
 
-# Vapaata keskustelua _(Kaikki)_
+# Free discussion _(everyone)_
 
-- keskustellaan kurssista, ohjelmoinnista, tietsikoista...
-- nautitaan virvokkeita
+- discuss the course, programming, computers
+- ask for feedback!
+- snacks and beverages
