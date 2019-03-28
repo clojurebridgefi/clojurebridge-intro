@@ -18,7 +18,7 @@
 # Basics of Clojure programming _(Ykä)_
 
 - Write and run code in Nightcode's Instarepl
-- [src/clojurebridge-intro/basics.clj](src/clojurebridge-intro/basics.clj)
+- [src/clojurebridge-intro/basics.clj](src/clojurebridge_intro/basics.clj)
 - IDE introduction
 - Variables
 - Functions
