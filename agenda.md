@@ -24,10 +24,11 @@
 - Functions
 - Evaluating
 
-# Data structures _(Ykä)_
+# Data structures _(Rudolf)_
 
 - Vector
 - Map
+- If & let
 - Use example data for the following excercise?
 
 # Map, Filter, Reduce _(Kimmo)_
@@ -49,7 +50,7 @@
 - How did I end up being a programmer?
 - How has it been to work as a programmer?
 
-# Quil _(Ykä)_
+# Graphics _(Ykä)_
 
 - ?
 

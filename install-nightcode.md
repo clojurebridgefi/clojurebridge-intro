@@ -5,7 +5,7 @@
 2. Copy Nightcode.dmg and java.dmg on your laptop
 3. Remove USB stick and give it to the next person
 4. Open Spotlight (command + space), search for Terminal and open it
-5. Write `java -version` command and press enter. If you see `java version "1.8.0_121"` or newer, go to **9**. Otherwise continue.
+5. Write `java -version` command and press enter. If you see `java version "1.8.0_xxxx"`, go to **9**. Otherwise continue.
 6. Doubleclick on java.dmg, continue the installation per instructions
 7. Close Terminal
 8. Drag java.dmg in trash bin
@@ -21,7 +21,7 @@
 2. Copy Nightcode.exe and java.exe on your laptop
 3. Remove USB stick and give it to the next person
 4. Open Powershell (via Start-menu search)
-5. Write `java -version` command and press enter. If you see `java version "1.8.0_121"` or newer, go to **9**. Otherwise continue.
+5. Write `java -version` command and press enter. If you see `java version "1.8.0_xxx"`, go to **9**. Otherwise continue.
 6. Doubleclick on java.exe, accept terms, click next, next, close
 7. Close Powershell
 8. Drag java.exe to trash bin
