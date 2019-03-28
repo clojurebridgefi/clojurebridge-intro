@@ -18,7 +18,7 @@
 # Basics of Clojure programming _(Ykä)_
 
 - Write and run code in Nightcode's Instarepl
-- [src/clojurebridge-intro/basics.clj](src/clojurebridge_intro/basics.clj)
+- [src/clojurebridge_intro/basics.clj](src/clojurebridge_intro/basics.clj)
 - IDE introduction
 - Variables
 - Functions
@@ -34,12 +34,13 @@
 # Map, Filter, Reduce _(Kimmo)_
 
 - introduce map, filter and reduce by acting a play on the
+
   - have one person (course participants?) per book
   - each person will get a printed paper that has the details on the their book
   - have one coach act as a map function, one as filter and one as reduce
   - orchestrate running the map, filter and reduce as a play
 
-- [src/clojurebridge-intro/tiedonkasittely.clj](src/clojurebridge_intro/tiedonkasittely.clj)
+- [src/clojurebridge_intro/books_archive.clj](src/clojurebridge_intro/books_archive.clj)
 - Implement and run the same functions in code:
   - map
   - filter

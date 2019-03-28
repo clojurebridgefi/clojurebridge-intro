@@ -1,36 +1,36 @@
 (ns clojurebridge-intro.basics)
 
 ;;
-;; Tutustutaan Clojuren syntaksiin:
+;; Familiarizing with the Clojure Syntax:
 ;;
 
-; Kommentit
+; Comments
 
-; Numerot
+; Numbers
 
 ; Booleans
 
-; Merkkijonot
+; Strings
 
-; Keywords, eli avainsanat
+; Keywords
 
-; Funktioiden kutsuminen
+; Calling Functions
 
-; Vakioiden käyttö
-
-
-;;
-;; Tehdään oma funktio
-;;
-
-; Lasketaan oman ja kahden naapurin pituuksien keskiarvo
+; Using Constants
 
 
 ;;
-;; Tietorakenteet:
+;; Let's make our own function
 ;;
 
-; Vektori
+; Calculate the average height of you and two neighbours
+
+
+;;
+;; Data Structures:
+;;
+
+; Vector
 ; - count
 ; - conj
 ; - first
