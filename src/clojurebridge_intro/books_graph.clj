@@ -6,10 +6,10 @@
 ;; Table of books from genre to colors:
 ;;               Genre          red green blue
 (def genre-color {:fantasy     [ 32  178   62]
-                 :mystery      [182   42   42]
-                 :classic      [142  142  182]
-                 :romantic     [255  155  155]
-                 :sci-fi       [230   20  192]})
+                  :mystery      [182   42   42]
+                  :classic      [142  142  182]
+                  :romantic     [255  155  155]
+                  :sci-fi       [230   20  192]})
 
 
 
@@ -119,6 +119,6 @@
     :size [685 600]))            ; Dimensions
 
 (comment
-  ; Copy/paste this and press ctrl+enter (win) or cmd+enter (mac) 
-  (open-new-window)
-  )
+  ; Copy/paste this and press ctrl+enter (win) or cmd+enter (mac)
+  (open-new-window))
+  
