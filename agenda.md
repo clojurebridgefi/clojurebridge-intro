@@ -33,12 +33,13 @@
 # Map, Filter, Reduce _(Kimmo)_
 
 - introduce map, filter and reduce by acting a play on the
+
   - have one person (course participants?) per book
   - each person will get a printed paper that has the details on the their book
   - have one coach act as a map function, one as filter and one as reduce
   - orchestrate running the map, filter and reduce as a play
 
-- [src/clojurebridge-intro/tiedonkasittely.clj](src/clojurebridge-intro/tiedonkasittely.clj)
+- [src/clojurebridge-intro/books-archive.clj](src/clojurebridge-intro/books-archive.clj)
 - Implement and run the same functions in code:
   - map
   - filter
