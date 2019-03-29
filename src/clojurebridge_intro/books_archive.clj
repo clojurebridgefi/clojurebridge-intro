@@ -49,4 +49,6 @@
 
 ; map:
 
-; reduce:
+;; reduce:
+;; What is the sum of pages of :sci-fi and :fantasy books?
+
