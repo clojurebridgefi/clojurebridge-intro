@@ -29,6 +29,7 @@ On the first row, the row and column of the syntax error is mentioned. Here it i
 
 - `java.lang.Long cannot be cast to clojure.lang.IFn`
   - First symbol after parenthesis is not a function but a long.
+  - If you want to create a list, use quote: `'(1 2 3)`
 
 - `java.lang.String cannot be cast to clojure.lang.IFn`
   - First symbol after parenthesis is not a function but a string.
@@ -41,3 +42,9 @@ On the first row, the row and column of the syntax error is mentioned. Here it i
 
 - `No such var: s/foo`
   - The name `s/foo` is not bound to a variable or function.
+
+- `Don't know how to create ISeq from: clojure.core$inc`
+  - Wrong order of arguments for e.g. `map`, `filter` or `reduce`
+
+- `Unable to resolve symbol: bar' in this context`
+  - Single quotes used for a string instead of double quotes
