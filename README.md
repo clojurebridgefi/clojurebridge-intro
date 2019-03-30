@@ -2,7 +2,10 @@
 
 ClojureBridge intro.
 
-See the workshop [agenda](agenda.md).
+## Documents
+
+- Workshop [agenda](docs/agenda.md)
+- [Nightcode installation instructions](docs/install-nightcode.md)
 
 ## License
 
