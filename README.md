@@ -6,6 +6,7 @@ ClojureBridge intro.
 
 - Workshop [agenda](docs/agenda.md)
 - [Nightcode installation instructions](docs/install-nightcode.md)
+- [How to type parenthesis](docs/how-to-type-parentheses.md)
 
 ## License
 
