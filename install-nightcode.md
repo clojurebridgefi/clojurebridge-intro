@@ -26,8 +26,11 @@
 7. Close Powershell
 8. Drag java.exe to trash bin
 9. Doubleclick Nightcode.exe
-10. ??
-11. Continue in **Common Instructions**
+10. If you get a security warning, click "Run"
+11. Click "Install" and wait until Nightcode opens
+12. If you get a Windows Defender/Firewall warning, click "Allow"
+13. If you get a warning in the bottom of Nightcode saying “Cannot start REPL”, then close Nightcode and start it again from start menu
+14. Continue in **Common Instructions**
 
 If you are using Linux, you can ask help from the coach.
 
