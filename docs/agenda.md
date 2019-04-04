@@ -51,9 +51,27 @@
 - How did I end up being a programmer?
 - How has it been to work as a programmer?
 
-# Graphics _(Ykä)_
+# Graphics with quil _(Ykä)_
 
-- ?
+- Interactive graphics
+  - [src/clojurebridge_intro/drawing.clj](../src/clojurebridge_intro/drawing.clj)
+  - read circle size from mouse coordinates
+- Visualise books
+  - [src/clojurebridge_intro/books_graph.clj](../src/clojurebridge_intro/books_graph.clj)
+  - use filter together with quil
+
+
+# Maybe try out a web project (optional)
+
+- Either a full stack project: Start → Web project
+- Or a server-side backend: Start → Clone from Git:
+`https://github.com/clojurebridgefi/clojurebridge-web-intro`
+- Hit Run
+- open http://localhost:3000
+
+# Demo project (optional)
+
+- Real life full stack Clojure project (Niclas, Kai & Ykä)
 
 # Free discussion _(everyone)_
 
