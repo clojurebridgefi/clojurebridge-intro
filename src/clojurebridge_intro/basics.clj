@@ -16,7 +16,7 @@
 
 ; Calling Functions
 
-; Using Constants
+; Binding names to variables
 
 
 ;;
