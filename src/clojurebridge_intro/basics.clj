@@ -133,6 +133,17 @@
     :else :car))
 
 ; boolean logic
+(def book1 {:name "Harry Potter" :genre :fantasy})
+(def book2 {:name "Pewpew space things" :genre :sci-fi})
+(def book3 {:name "Steve Jobs" :genre :biography})
+
+(defn good-book? [book]
+  (let [genre (get book :genre)]
+    (or
+      (= genre :sci-fi)
+      (= genre :fantasy))))
+
+(good-book? book3)
 
 ;;
 ;; let
