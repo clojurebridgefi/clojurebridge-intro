@@ -1,4 +1,4 @@
-# Opening _(Ykä)_
+# Opening _(Eetu)_
 
 - Welcome
 - Practicalities
@@ -10,12 +10,12 @@
 
 - [Instructions](install-nightcode.md)
 
-# What is programming? _(Juhis)_
+# What is programming? _(Eetu)_
 
 - How does a computer work
 - Programming in general
 
-# Basics of Clojure programming _(Ykä)_
+# Basics of Clojure programming _(Who?)_
 
 - Write and run code in Nightcode's Instarepl
 - [src/clojurebridge_intro/basics.clj](../src/clojurebridge_intro/basics.clj)
@@ -24,14 +24,14 @@
 - Functions
 - Evaluating
 
-# Data structures _(Rudolf)_
+# Data structures _(Who?)_
 
 - Vector
 - Map
 - If & let
 - Use example data for the following excercise?
 
-# Map, Filter, Reduce _(Kimmo)_
+# Map, Filter, Reduce _(Who?)_
 
 - introduce map, filter and reduce by acting a play on the
 
@@ -46,12 +46,12 @@
   - filter
   - reduce
 
-# Talk _(Asta)_
+# Talk _(Who?)_
 
 - How did I end up being a programmer?
 - How has it been to work as a programmer?
 
-# Graphics with quil _(Ykä)_
+# Graphics with quil _(Who?)_
 
 - Interactive graphics
   - [src/clojurebridge_intro/drawing.clj](../src/clojurebridge_intro/drawing.clj)
