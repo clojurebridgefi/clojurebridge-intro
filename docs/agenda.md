@@ -46,7 +46,7 @@
   - filter
   - reduce
 
-# Talk _(Who?)_
+# Talk _(Emppu)_
 
 - How did I end up being a programmer?
 - How has it been to work as a programmer?
