@@ -1,4 +1,4 @@
-# Opening _(Eetu)_
+# Opening _(Eetu & Mirkka)_
 
 - Welcome
 - Practicalities
@@ -10,12 +10,12 @@
 
 - [Instructions](install-nightcode.md)
 
-# What is programming? _(Eetu)_
+# What is programming? _(Eetu & Mirkka)_
 
 - How does a computer work
 - Programming in general
 
-# Basics of Clojure programming _(Who?)_
+# Basics of Clojure programming _(Esko & Eetu)_
 
 - Write and run code in Nightcode's Instarepl
 - [src/clojurebridge_intro/basics.clj](../src/clojurebridge_intro/basics.clj)
@@ -24,7 +24,7 @@
 - Functions
 - Evaluating
 
-# Data structures _(Who?)_
+# Data structures _(Tuomo)_
 
 - Vector
 - Map
@@ -71,7 +71,7 @@
 
 # Demo project (optional)
 
-- Real life full stack Clojure project (Niclas, Kai & Ykä)
+- Real life full stack Clojure project (Esko? Jessika?)
 
 # Free discussion _(everyone)_
 
